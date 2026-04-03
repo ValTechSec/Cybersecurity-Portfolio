@@ -1,0 +1,10 @@
+# Guess-The-Number Game
+
+This is a Python game I coded where the player tries to guess a number between 1 and 20.
+
+## How it works:
+1. Press play to start the game. 
+2. Guess the secret number between 1 and 20.
+3. You have 3 lives to guess correctly.
+4. If your guess is too low or too high. The game will tell you and show how many lives you have left.
+5. Guess correctly to win, or use all your lives and see the secret number. 
