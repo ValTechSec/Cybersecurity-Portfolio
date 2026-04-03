@@ -1,0 +1,7 @@
+Project: Active Directory Home Lab
+
+
+Installed Windows Server
+Configured Active Directory 
+Created company departments
+Joined Windows computer to domain
